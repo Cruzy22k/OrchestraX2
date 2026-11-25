@@ -1,0 +1,5 @@
+Required libraries:
+- os (built in)
+- asyncio (built in)
+- from pydantic import BaseModel (External)
+- whatever ai library we are using
